@@ -43,6 +43,10 @@ h2{
   font-family: 'Shadows Into Light', Arial, Helvetica, sans-serif;
 }
 
+.text-mobile{
+  display: none;
+}
+
 .img{
   padding-right: 50px;
   width: 400px;
